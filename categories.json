@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Food & Beverages",
+      "keywords": ["khana", "chai", "coffee", "biryani", "pizza", "burger", "drink"]
+    },
+    {
+      "id": 2,
+      "name": "Electronics",
+      "keywords": ["phone", "laptop", "mobile", "charger", "headphones", "tablet"]
+    },
+    {
+      "id": 3,
+      "name": "Clothing",
+      "keywords": ["shirt", "pants", "dress", "shoes", "jacket", "kurta", "shalwar"]
+    },
+    {
+      "id": 4,
+      "name": "Books & Stationery",
+      "keywords": ["book", "notebook", "pen", "pencil", "copy", "stationery"]
+    },
+    {
+      "id": 5,
+      "name": "Home & Garden",
+      "keywords": ["sofa", "bed", "table", "chair", "decoration", "furniture"]
+    },
+    {
+      "id": 6,
+      "name": "Other",
+      "keywords": []
+    }
+  ]
+}
